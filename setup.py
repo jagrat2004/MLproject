@@ -1,4 +1,5 @@
 ## this is responsible for creating ml project as a package ----> setup.py 
+## setup.py is a configuration file used to package your Python project so it can be installed, reused, and distributed like a standard Python library.In ML projects, it helps you treat your code as a professional, installable package instead of loose scripts.
 
 from setuptools import find_packages, setup
 from typing import List
