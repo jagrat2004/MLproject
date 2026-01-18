@@ -170,6 +170,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Dataset source: Student Performance dataset
-- Inspired by end-to-end ML project tutorials and best practices
 
-For more details, refer to the individual notebooks and source code files.
+---
+
+**Build with ❤️ by Jagrat Agrawal** 
